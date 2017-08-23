@@ -1,0 +1,17 @@
+
+Systematic Low Leakage (SLLC
+
+What is Systematic Low Leakage and where will it be used? Also what does SLLC?
+
+Systematic Low Leakage Coding (SLLC) is a(n) algorithm (protocol, technique, procedure) for Physical Unclonable Functions.
+SLLC uses the entire 'PUF-answer' and keeps the size of 'Helper Data' to a Minimum. or (and keeps a minimal size of 'Helper Data'.)
+This approach will often be used by PUFs that only have to correct  a small amount of errors. A big advantgage in comparison
+to similar approaches is that the 'Helper Data' does not giva any information about the 'reproduced secret' key. 
+
+Which code construction are nessesary/sufficiently for using SSLC ?
+
+
+
+
+
+  
