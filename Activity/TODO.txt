@@ -1,4 +1,0 @@
-TODO List 
--What is a PUF, Why PUF?
-- SLLC code construction 
-- Differential Sequence Coding 
